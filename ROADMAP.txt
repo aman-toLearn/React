@@ -1,0 +1,180 @@
+
+first video of react 
+
+LIBRARY  BY FACEBOOK
+
+====>>Q. WHY 
+
+                to build UI ,
+                makes easy to manage & build complex frontend 
+
+                react end of the compile hota hai HTML,CSS,JS mein 
+                browser ko yhi amjh aata hai
+
+
+
+====>>Q. WHEN SHOULD I LEARN REACT 
+
+
+                -->After mastering JS 
+                -->most project dont need react in initial phase 
+
+
+
+====>>Q.WHY REACT CREATED  
+
+                    -->facebook k andar ek problem thhi PHANTOM MESSAGE PROBLEM 
+                        /GHOST MESSAGE PROBLEM 
+                                                top pe ek chat icon hota tha jitne nye message aate thhe unka count apne pas aa jaata thha 
+                                                ispe click krte hi dropdown open hota tha wha se msgs ko open kr skte thhe dropdown ke andar bhi 
+                                                ek icon hota thha ki iss user ne 5 msg iss ne 3 bheje hai 
+
+                                                problem kya hoti thhi apn ne user k msg dekh liye baat krli lekin main jo count hota thha wo gayab hi nhi hota thaa ==INCONSISTENCY IN UI 
+
+                                                yha se shuruaat hui react ki 
+
+                                                acha ye problem hai kya 
+
+                                                  STATE--JS {state(fency name for vars) hai wo too JS manage krta hai }
+
+                                                  UI---DOM{UI manage krta hai DOM}
+
+                                                  TOO ye jo DOM and JS inn dono k beech honi chaiye baat or dono hone chaiye thhe sync jo KI SYNC nhi ho rhe thhe 
+                                                   ye problem solve kri ek team ne inside appriciation mila 
+
+                                                   LEKIN outside world ne kha itni si problem solve krne k liye aapne library bna di 
+
+                      KHAN ACADEMY --THEN UNSPLASH ne react ko adopt kiya phir reach milna shuru 
+
+====>>Q.DONT LEARN REACT IF 
+    
+                           you dont know how js works and dom works 
+
+
+====>>Q.REACT LEARNING PROCESS 
+
+                         1. GO IN DEPTH==> Babel,fiber,Virtual DOm ,diff algo ,hydration,tree shaking 
+                         2. BY making PROJECTS ==>     one topic at a time ex. TODo ,calculator,Github API 
+                               then topics ko dekh lete hai 
+                               
+
+
+====>>Q.REACT IS A LIBRARY 
+
+                        FRAMEWORK VS LIBRARY 
+
+                        FRAMEWORK IS MILITARY rules pe jayada dhyan dia jaata hai 
+                        LIBRARY cool dude jeans kaisi bhi phn lo topi kaise bhi lga lo 
+
+
+
+
+====>> Q TOPICS TO LEARN 
+       
+                      1.CORE ==> [State OR UI MANIPULATION ,JSX]
+                            -- react ke andar agar ko var ko manipulate kr dete hai too wo directlu UI ke andar reflect nhi krta hai 
+                               kyo nhi krta hai aksie krwana hai 
+                               JSX-- JS mein HTML more in next 
+
+                     2. COMPONENT REUSABILITY 
+
+                                            -->kis tarike se button ko kai jagah use kr skte hai ek hi baar bna ke 
+                                            ya phir footers and headers ko 
+                                             ek hi card ko bar bar kaise use kr skte hai 
+
+                     3.REUSING OF COMPONENT(PROPS) ==> component reusability ke dauran hi PROPS sikhte hai 
+
+
+
+                    4.HOW TO PROPOGATE CHANGES(HOOKS ) ==> var change kr diye too wo UI m reflect ni hote hai wo hote hai HOOKS ke through 
+                                                           ex. USESTATEHOOK, USEEFFECTHOOK
+
+
+      REACT bnata hai SPA single page application mtlb refresh hi ni hota hai ab mujhe too multi page bnana hai url type ex iss page pe jao iss pe jao 
+
+      USKE liye hota hai MANIPULATION uske liye ==.>
+                    
+         YE SIKHNA PDTA HAI 
+                    ADDITIONAL ADD ON REACT====>
+                     
+                                              =>ROUTER--> router react ki functionality nhi uske liye ek additional package install krna pdta hai 
+                                                          uska name hai REACT-ROUTER-DOM
+
+
+                                             =>STATE MANAGMENT-->konsa var kb konsa button kb update hora hai 
+                                                                    react ke andar bydefault state managment nhi thha abhi hai
+
+                                                                     iske liye kuch libraries ko introduce kia gya ye JS ki library hai standalone library hai REACT ki nhi hai 
+                                                                     ex. REDUX, REDUX TOOLKIT ,ZUSTAND CONTEXT API 
+
+
+                                            
+                                            =>CLASS BASED COMPONENT --> react abhi kya hai sb kuch function basedhai sb kuch functional hai lekin jab starting m aaya thha too class based chlta thha 
+                                                                        legacy code 
+
+
+                                            =>BAAS APPS --> backend as a service 
+                                                              ex. APPWRITE,FIREBASE,SUPERBASE
+                                                              inka use krke bna lete hai social media clone e-commerce app 
+
+
+
+
+
+=============================================================================================================================================================================================================================
+
+
+
+                         AFTER REACT 
+
+                          1.switch to backend
+                          2.IN FRONTEND --> 
+                                            React is not a complete solution in most case 
+                                            REACT-- {NO SEO }-->tags wgera ache se generate nhi hote hai search engine nhi pdh paate hai better seo ke liye 
+                                             BROWSER RENDER OF JS-->   REACT k thrugh saara code ship hota hai JS ka browser ke andar browser generate krta hai HTML CSS ko 
+                                                                   browser ko itta kam denge to slow too ho hi jaayega haalanki basic application m fast hi dikhta hai 
+                                            NO ROUTING-->no routing option bydefault 
+
+                                            issliye kuch frameworks hote hai 
+                                            NEXTJS GATSBY REMIX
+                                             
+                                             or bhi kai framework hai jo react ke upr bne hai 
+                                             too aap inpe switch kr skte hai 
+
+                                              agar aap next switch krte hai too ye allow krta hai ki aap ek 
+                                               hi framework ke andar backend bhi frontend bhi likh lo 
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             
