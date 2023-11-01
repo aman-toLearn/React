@@ -1,0 +1,60 @@
+React ek library 
+iss ke saath or bhi attachment milte hai 
+           - react-dom       -- website ka kaam 
+           -react-native     --app 
+
+----------------------------------------------------------------------
+
+React k project bnane k liye ek doo tarike hai 
+        1).npx create-react-app  
+             npx:-node package executor 
+             create-react-app :- Utility (ek software )
+
+    Iss tarike se time jayada lgta hai bhot bulky hai 
+
+         ye project chalana kaise hai 
+            start script se 
+              cmd:-   npm run start
+              -
+              -
+              cmd:-npm run build '
+                    build folder aa jaayega uske andar saare static
+                    assets ,jitna bhi JS react m likha thha wo yha 
+                    convert ho gya hai 
+                    ye build folder hi serve hota hai saare users ko 
+
+
+ src hi hai main :- Delete these -- setup.testjs, reportwebVital ,logo.svg
+                                     Apptest.js,App.css 
+                            
+                    Abb src ke andar 2 file index.js,App.js 
+                    App.js se div ko htaiye 
+
+ye tarkia acha nhi thha bulky too apn use krenge vite 
+
+
+
+
+
+        2).vite se 
+            
+          cmd:-   npm create vite@latest
+           ye project ka naam puchega 
+            phir puchega konse framework se bna na chahte ho 
+              vanila,vue,React,Preact,Lit,Svelte,Solid,Qwik
+        node modules nhi aaye honge laana pdenga 
+           cmd:- npm i   (required package install ho jaayenge )
+
+        run kaise krna hai 
+           cmd:- npm run dev 
+
+src ke andar Delete :- assets ,App.css,index.css,
+
+                    Ab hmare pas bchi hai Main.jsx,App.jsx 
+                    App.jsx m se freagments ko htaiye 
+                    h1 return kriye 
+                    
+        
+         
+        
+         
